@@ -1,0 +1,40 @@
+.image {
+    background-image: url("../img/hrmmm.jpg");
+    background-color: #cccccc;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    position: relative;
+}
+#neti:focus {
+    outline: none !important;
+
+}
+.bg-gradient-info {
+    background: #b92b27;
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);
+    background: linear-gradient(to right, #1565C0, #b92b27);
+
+}
+#neti{
+    background: #EDF8DA !important;
+    border: none !important;
+    padding: 5px 5px !important;
+    margin: 5px !important;
+    outline: none;
+}
+.sidebar.toggled img{
+    width: 100%;
+}
+
+@media (max-width: 575.98px) { 
+    .employee-mimg{
+        width: 100% !important;
+    }
+    .m-clock-control{
+        display: flex;
+        justify-content:space-between !important;
+    }
+ }
+

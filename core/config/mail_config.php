@@ -1,0 +1,1 @@
+<?php $email_method = "smtp" ;$host = "smtp.mailtrap.io" ;$username = "9bb8da7c310a78" ;$password = "28c70986319106" ;$port = "587" ;$encryption = "tls"; ?>
